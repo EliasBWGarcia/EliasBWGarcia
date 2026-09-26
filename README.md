@@ -18,7 +18,7 @@ I enjoy building applications, exploring different technologies and learning how
 
 **Other:** Git, REST APIs, n8n
 
-## Projects
+## Private Projects
 
 ### Booze Game
 A mobile party-game application I'm developing collaboratively for release on the Apple App Store.
